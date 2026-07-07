@@ -13,13 +13,13 @@
 
 </div>
 
----
 
-[![Aurelia Preview](https://github.com/user-attachments/assets/21b278f3-f42b-4b43-aa06-1ed5d734c949)](https://holtsetio.com/lab/aurelia/)
+
+[![Aurelia Preview](img/peview.jpg)](https://jellyfish-sage.vercel.app/)
 
 <div align="center">
 
-**[→ Watch Aurelia swim live ←](https://holtsetio.com/lab/aurelia/)**
+**[→ Watch Aurelia swim live ←](https://jellyfish-sage.vercel.app/)**
 
 </div>
 
@@ -27,7 +27,7 @@
 
 There's something about jellyfish that makes you stop and watch. They don't swim like other creatures. They pulse. They drift. They become the water itself.
 
-I've been chasing that feeling for years. Fifteen years ago, I built my first jellyfish simulation in Flash. The web was a different place then—no touch screens, no GPU compute, just raw creativity squeezed into a dying plugin. The project was called Aurelia, after *Aurelia aurita*, the moon jellyfish. It was beautiful in its own way. But it was trapped in the past.
+I've been chasing that feeling one ars. Fifteen years ago, I built my first jellyfish simulation in Flash. The web was a different place then—no touch screens, no GPU compute, just raw creativity squeezed into a dying plugin. The project was called Aurelia, after *Aurelia aurita*, the moon jellyfish. It was beautiful in its own way. But it was trapped in the past.
 
 So I rebuilt it. From scratch. For the modern web.
 
@@ -297,27 +297,6 @@ This is a reimagination of [Aurelia](https://holtsetio.com/old/aurelia/)—a Fla
 
 ---
 
-## License
-
-MIT License. Use it, modify it, share it.
-
----
-
-<div align="center">
-<i>"In the ocean of code, we are all just jellyfish drifting on the currents of creativity."</i>
-</div>
-
----
-
-<div align="left">
-
-<a href="https://sebas-dev.vercel.app/" target="_blank"><em>✨ Created by Sebastian Vasquez</em></a>
-
-<a href="https://github.com/sebastianvasquezechavarria1234/parallax-depth" target="_blank"><em>💻 View source code</em></a>
-
-</div>
-
----
 
 <div align="center">
 Made with ❤️ by <a href="https://sebas-dev.vercel.app/" target="_blank" rel="noopener noreferrer">Sebastián V</a>
