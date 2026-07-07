@@ -1,22 +1,9 @@
 <div align="center">
 
-🪼 ✨
+# 🪼 ✨ Aurelia
 
-# **Aurelia**
+*Real-time procedural jellyfish dancing in your browser, powered by WebGPU.*
 
-**Real-time procedural jellyfish dancing in your browser, powered by WebGPU.**
-
-[![GitHub stars](https://img.shields.io/github/stars/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&logo=github&color=yellow)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&logo=github&color=blue)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square&logo=mit)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/github/last-commit/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&logo=github&color=orange)](https://github.com/sebastianvasquezechavarria1234/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&logo=github&color=purple)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js)
-[![Top Language](https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js)
-[![Languages Count](https://img.shields.io/badge/Languages-1-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js)
-[![GitHub issues](https://img.shields.io/github/issues/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&logo=github&color=red)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&logo=github&color=cyan)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js/pulls)
-[![GitHub open issues](https://img.shields.io/github/issues/sebastianvasquezechavarria1234/jellyfish-three.js?style=flat-square&label=Open%20Issues&color=orange)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js/issues)
-[![Visitors](https://img.shields.io/badge/👀-Visitors-blue?style=flat-square)](https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js)
 [![Three.js](https://img.shields.io/badge/Three.js-r175-black?style=flat-square&logo=three.js)](https://threejs.org/)
 [![WebGPU](https://img.shields.io/badge/WebGPU-Ready-2d9cff?style=flat-square&logo=webgpu&logoColor=white)](https://www.w3.org/TR/webgpu/)
 [![Vite](https://img.shields.io/badge/Vite-6.3-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -32,15 +19,25 @@
 
 <div align="center">
 
-**[→ Watch Aurelia Swim Live ←](https://holtsetio.com/lab/aurelia/)**
+**[→ Watch Aurelia swim live ←](https://holtsetio.com/lab/aurelia/)**
 
 </div>
 
 ---
 
-## 📚 Table of Contents
+There's a moment when you open this project. A moment of silence. Then... they appear. Ten translucent bells, emerging from the darkness, each breathing with its own quiet rhythm. They pulse upward, trailing gossamer tentacles that sway with currents you can't see.
 
-- [The Story](#-the-story)
+I've been obsessed with jellyfish since I was a kid. Their movements are hypnotic. Their geometry is perfect. They don't fight the water—they become it. Fifteen years ago, I built my first jellyfish game in Flash. The web was a different place then. No touch screens. No WebGPU. Just magic trapped in a dying technology.
+
+**Aurelia** is that dream, reborn.
+
+And here's what makes it special: nothing here was pre-recorded. Every movement, every glow, every particle of plankton floating by is generated in real-time. Right there. On your GPU. This isn't a demo. It's an ecosystem.
+
+---
+
+## Table of Contents
+
+- [The Journey](#-the-journey)
 - [Features](#-features)
 - [Technologies](#-technologies)
 - [Project Structure](#-project-structure)
@@ -50,69 +47,67 @@
 - [Behind the Scenes](#-behind-the-scenes)
 - [Performance](#-performance)
 - [Responsive Design](#-responsive-design)
-- [Where Could This Adventure Continue?](#-where-could-this-adventure-continue)
+- [What's Next?](#-whats-next)
 - [Credits](#-credits)
 - [License](#-license)
 
 ---
 
-## 🌊 The Story
+## 🌟 The Journey
 
-There's something about jellyfish that stops you in your tracks.
+When someone opens Aurelia, they don't see code. They don't see polygons or shaders. They see a deep blue void, and then... movement. Slow. Deliberate. Alive.
 
-They don't swim like fish. They don't fight the current. They *become* the current—pulsing, drifting, glowing like living lanterns in the deep blue. Their movements are so hypnotic, so perfectly geometric, that watching them feels like meditation.
+Ten jellyfish swim upward through an infinite ocean. Each one pulses with its own rhythm—some faster, some slower. Their bells expand and contract, propelling them forward. Tentacles trail behind like silk threads caught in a current.
 
-I've been obsessed with these creatures since I was a kid. Fifteen years ago, I built my first jellyfish game in ActionScript. Flash was dying, touch screens didn't exist yet, and the web was a very different place. But the dream never faded.
+Move your mouse near one, and something beautiful happens. It reacts. It glows brighter, as if charging with energy. The closer you get, the more it responds. It's a small interaction, but it changes everything. Suddenly, this isn't just a visualization. It's a conversation.
 
-**Aurelia** is that dream reborn.
+And the deeper you look, the more you notice. The plankton drifting in the background. The god rays streaming from above. The way each jellyfish moves just slightly differently from the others. It's the kind of project that makes you stop and think... *how did they do this?*
 
-When you open this project, something magical happens. Ten translucent bells emerge from the darkness, each one breathing with its own rhythm. They pulse upward, trailing gossamer tentacles that sway with invisible currents. The deeper you go, the more you realize—nothing here was pre-recorded. Every movement, every glow, every particle of plankton floating by is generated in real-time, right there on your GPU.
-
-This isn't just a demo. It's a living, breathing ecosystem.
+Let me show you.
 
 ---
 
 ## ✨ Features
 
-🪼 **Real-time Procedural Jellyfish**
-Ten unique jellyfish, each with their own phase, noise seed, and personality. No two are alike.
+**Real-time Procedural Jellyfish**
+Ten unique creatures, each with their own personality. No two are alike.
 
-🧬 **GPU-Accelerated Verlet Physics**
-Hundreds of particles connected by springs, simulated at 360 steps per second entirely on the GPU using compute shaders.
+**GPU-Accelerated Verlet Physics**
+Hundreds of particles connected by springs, simulated at 360 steps per second on the GPU.
 
-🌊 **Procedural Underwater Environment**
-The background, fog, god rays, and even the plankton are generated in shaders. Zero texture files.
+**Procedural Underwater Environment**
+Background, fog, god rays, plankton—all generated in shaders. Zero texture files.
 
-✨ **Interactive Bloom & Glow**
-Custom MRT (Multiple Render Targets) bloom system. Jellyfish glow brighter when you hover near them.
+**Interactive Bloom & Glow**
+Custom MRT bloom system. Jellyfish glow brighter when you hover near them.
 
-🖱️ **Mouse Interaction**
-Move your cursor and watch the jellyfish scatter. An invisible force field pushes them away from your pointer.
+**Mouse Interaction**
+Move your cursor and watch the jellyfish scatter. An invisible force field pushes them away.
 
-🌱 **Floating Plankton**
-1000+ tiny particles drift through the water, creating depth and atmosphere. They're all procedural too.
+**Floating Plankton**
+Over a thousand tiny particles drift through the water, creating depth and atmosphere.
 
-🔬 **Procedural Everything**
+**Procedural Everything**
 No images. No 3D models. Everything is math and noise.
 
 ---
 
-## 🛠️ Technologies
+## 🛠 Technologies
 
-| Technology | Purpose | Badge |
-|:-----------|:--------|:------|
-| **Three.js** | 3D rendering engine | ![Three.js](https://img.shields.io/badge/Three.js-r175-black?style=flat-square&logo=three.js) |
-| **WebGPU** | Next-gen GPU API | ![WebGPU](https://img.shields.io/badge/WebGPU-Ready-2d9cff?style=flat-square&logo=webgpu&logoColor=white) |
-| **Vite** | Build tool & dev server | ![Vite](https://img.shields.io/badge/Vite-6.3-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **GLSL** | Shader language | ![GLSL](https://img.shields.io/badge/GLSL-4.0-563D7C?style=flat-square&logo=opengl&logoColor=white) |
-| **JavaScript** | Application logic | ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=flat-square&logo=javascript&logoColor=white) |
-| **WebGL** | Fallback rendering | ![WebGL](https://img.shields.io/badge/WebGL-2.0-990000?style=flat-square&logo=webgl&logoColor=white) |
-| **Tweakpane** | Debug UI | ![Tweakpane](https://img.shields.io/badge/Tweakpane-4.0-orange?style=flat-square) |
-| **Simplex Noise** | Procedural generation | ![Simplex Noise](https://img.shields.io/badge/Simplex%20Noise-4.0-green?style=flat-square) |
+| Technology | Why It Was Chosen |
+|:-----------|:------------------|
+| **Three.js** | The heart of the rendering engine. Powerful, flexible, and well-documented. |
+| **WebGPU** | Next-gen GPU API. Enables compute shaders for physics simulation. |
+| **Vite** | Lightning-fast dev experience. Instant hot module replacement. |
+| **GLSL** | Shader language for procedural generation and post-processing. |
+| **JavaScript** | Application logic. No frameworks, just pure JS. |
+| **WebGL** | Fallback rendering for browsers without WebGPU support. |
+| **Tweakpane** | Elegant debug UI for tweaking parameters in real-time. |
+| **Simplex Noise** | Procedural generation. Creates organic, natural-looking movement. |
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```
 jellyfish-three.js/
@@ -122,167 +117,100 @@ jellyfish-three.js/
 ├── vite.config.js          # Vite configuration
 │
 └── src/
-    ├── app.js                 # 🎬 Main orchestrator — glues everything together
-    ├── conf.js                # ⚙️ Settings & tweakable parameters
+    ├── app.js                 # Main orchestrator
+    ├── conf.js                # Settings & parameters
     │
-    ├── medusa.js              # 🪼 Individual jellyfish logic
-    ├── medusaBell.js          # 🔔 Bell assembly (combines top, bottom, margin)
-    ├── medusaBellGeometry.js  # 📐 Procedural bell mesh generation
-    ├── medusaBellFormula.js   # 📊 Mathematical shape formula
-    ├── medusaBellPattern.js   # 🎨 Color & pattern generation
-    ├── medusaBellMargin.js    # 🌊 Bell edge details
-    ├── medusaBellTop.js       # 👑 Bell crown geometry
-    ├── medusaBellBottom.js    # 🔽 Bell base geometry
-    ├── medusaOralArms.js      # 🌸 Flowing oral arms
-    ├── medusaTentacles.js     # 🧵 Trailing tentacles
-    ├── medusaVerletBridge.js  # 🔗 Physics bridge between jellyfish
+    ├── medusa.js              # Individual jellyfish logic
+    ├── medusaBell.js          # Bell assembly
+    ├── medusaBellGeometry.js  # Procedural mesh generation
+    ├── medusaBellFormula.js   # Mathematical shape formula
+    ├── medusaBellPattern.js   # Color patterns
+    ├── medusaBellMargin.js    # Bell edge details
+    ├── medusaBellTop.js       # Bell crown
+    ├── medusaBellBottom.js    # Bell base
+    ├── medusaOralArms.js      # Flowing oral arms
+    ├── medusaTentacles.js     # Trailing tentacles
+    ├── medusaVerletBridge.js  # Physics bridge
     │
-    ├── background.js          # 🌌 Procedural underwater environment
-    ├── godrays.js             # 💡 Volumetric light rays
-    ├── lights.js              # 💡 Scene lighting
-    ├── plankton.js            # 🌱 Floating particles
+    ├── background.js          # Underwater environment
+    ├── godrays.js             # Volumetric light rays
+    ├── lights.js              # Scene lighting
+    ├── plankton.js            # Floating particles
     │
     └── physics/
-        ├── verletPhysics.js   # ⚡ GPU compute shader physics engine
-        ├── springVisualizer.js  # 👁️ Debug: visualize springs
-        └── vertexVisualizer.js  # 👁️ Debug: visualize vertices
+        ├── verletPhysics.js   # GPU physics engine
+        ├── springVisualizer.js
+        └── vertexVisualizer.js
 ```
 
 ---
 
-## 📦 Installation
+## 🚀 Installation
 
 ```bash
-# 1. Clone the repository
 git clone https://github.com/sebastianvasquezechavarria1234/jellyfish-three.js.git
-
-# 2. Navigate into the project
 cd jellyfish-three.js
-
-# 3. Install dependencies
 npm install
-
-# 4. Start the development server
 npm run dev
 ```
 
-Open your browser and navigate to `http://localhost:5173`. 🐙
+Open your browser and navigate to `http://localhost:5173`.
 
-> **Note:** WebGPU is required. Use Chrome 113+ or Edge 113+ for the best experience.
+WebGPU is required. Use Chrome 113+ or Edge 113+ for the best experience.
 
 ---
 
 ## 🎮 How to Use
 
-### Controls
+The controls are simple:
 
-| Action | Effect |
-|:-------|:-------|
-| 🖱️ **Click & Drag** | Orbit around the jellyfish |
-| 🔍 **Scroll** | Zoom in / out |
-| 👆 **Hover** | Push jellyfish away with invisible force |
+- **Click and drag** to orbit around the jellyfish
+- **Scroll** to zoom in and out
+- **Hover** near a jellyfish to push it away
 
-### The Scene
+When the page loads, you'll see ten jellyfish swimming upward through a deep blue void. Each one has a pulsing bell, twenty tentacles, oral arms that sway with the movement, and a unique movement pattern driven by noise.
 
-When the page loads, you'll see **10 jellyfish** swimming upward through a deep blue void. Each one has:
-
-- A pulsing bell that contracts to propel it
-- 20 tentacles that trail behind
-- Oral arms that sway with the movement
-- A unique movement pattern driven by noise
-
-### Interaction
-
-Move your mouse near a jellyfish and watch it react. The closer you get, the more it "charges" and glows brighter. It's a small touch, but it makes the experience feel alive.
+Move your mouse near a jellyfish and watch it react. The closer you get, the more it glows. It's a small touch, but it makes the experience feel alive.
 
 ---
 
-## ⚙️ How It Works
+## ⚙ How It Works
 
 ### The Bell
 
-The jellyfish bell is a hemisphere that contracts sinusoidally. Imagine a dome that breathes—in, out, in, out. The formula combines:
-
-- **Sinusoidal pulse** for the primary contraction
-- **Noise perturbation** for organic irregularity
-- **Phase offset** so each jellyfish moves independently
-
-```
-bellRadius = sin(zenith × π) × pulseFactor
-```
+The jellyfish bell is a hemisphere that contracts sinusoidally. Imagine a dome that breathes—in, out, in, out. The formula combines sinusoidal pulse for the primary contraction, noise perturbation for organic irregularity, and phase offset so each jellyfish moves independently.
 
 ### Verlet Physics
 
-The tentacles and oral arms aren't animated—they're *simulated*. A verlet particle system runs entirely on the GPU:
+The tentacles and oral arms aren't animated—they're simulated. A verlet particle system runs entirely on the GPU at 360 steps per second. Spring forces are computed in parallel, vertex positions are updated on the GPU, and mouse interaction creates ripple effects. Dampening ensures smooth, realistic motion.
 
-```
-360 physics steps per second
-├── Spring forces computed in parallel
-├── Vertex positions updated on GPU  
-├── Mouse interaction creates ripple effects
-└── Dampening ensures smooth, realistic motion
-```
-
-Each tentacle has **20 segments** connected by springs. With 20 tentacles per jellyfish and 10 jellyfish, that's **4,000 particles** simulated in real-time.
+Each tentacle has twenty segments connected by springs. With twenty tentacles per jellyfish and ten jellyfish, that's four thousand particles simulated in real-time.
 
 ### Post-Processing
 
-The bloom effect uses **Multiple Render Targets (MRT)** to separate:
-
-- `bloomIntensity` — how much each pixel should glow
-- `charge` — interactive glow from mouse proximity
-
-The final pass combines these to create that ethereal, bioluminescent look.
+The bloom effect uses Multiple Render Targets to separate bloom intensity from charge. The final pass combines these to create that ethereal, bioluminescent look.
 
 ### The Environment
 
-The underwater atmosphere is built from:
-
-- **Procedural fog** using triNoise3D
-- **God rays** streaming from above
-- **Plankton** — 1000+ billboarded particles with drift and flickering
-
-No textures. No images. Everything is math.
+The underwater atmosphere is built from procedural fog using triNoise3D, god rays streaming from above, and plankton—over a thousand billboarded particles with drift and flickering. No textures. No images. Everything is math.
 
 ---
 
-## 🔍 Behind the Scenes
+## 🎨 Behind the Scenes
 
-Here are some implementation details that developers might find interesting:
+Here are some details that developers might find interesting.
 
-### 🔢 The Math Behind the Bell
+**The Math Behind the Bell**
+The bell shape uses a custom formula that combines sinusoidal contraction for the pulsing motion, noise-based perturbation for organic irregularity, and phase offset so each jellyfish moves independently.
 
-The bell shape uses a custom formula that combines:
-- **Sinusoidal contraction** for the pulsing motion
-- **Noise-based perturbation** for organic irregularity  
-- **Phase offset** so each jellyfish moves independently
+**GPU Compute Shaders**
+The verlet physics runs entirely on the GPU using Three.js TSL. The system computes spring forces between connected particles, aggregates forces at each vertex, updates positions based on accumulated force—all happening in parallel, 360 times per second.
 
-### 🎯 GPU Compute Shaders
+**Custom Bloom Pass**
+Instead of a simple full-screen bloom, the project uses MRT to tag pixels that should glow based on material properties, apply bloom selectively to emissive areas, and create that magical bioluminescent effect.
 
-The verlet physics runs entirely on the GPU using Three.js TSL (Three Shading Language). The system:
-
-1. Computes spring forces between connected particles
-2. Aggregates forces at each vertex
-3. Updates positions based on accumulated force
-4. All happening in parallel, 360 times per second
-
-### 🌈 Custom Bloom Pass
-
-Instead of a simple full-screen bloom, the project uses MRT to:
-
-- Tag pixels that should glow based on material properties
-- Apply bloom selectively to emissive areas
-- Create that magical bioluminescent effect
-
-### 🎲 Procedural Plankton
-
-Each plankton particle is:
-- Positioned using a hash function
-- Drifted by 3D noise
-- Billboarded to always face the camera
-- Fogged based on distance
-
-The instance count scales dynamically with the visible volume—no wasted particles.
+**Procedural Plankton**
+Each plankton particle is positioned using a hash function, drifted by 3D noise, billboarded to always face the camera, and fogged based on distance. The instance count scales dynamically with the visible volume—no wasted particles.
 
 ---
 
@@ -296,14 +224,12 @@ The project is optimized for smooth performance:
 - **LOD Scaling**: Plankton count adapts to visible volume
 - **Efficient Shaders**: Minimal branching, optimized math
 
-### Browser Support
-
 | Browser | WebGPU | WebGL Fallback |
 |:--------|:------:|:--------------:|
-| Chrome 113+ | ✅ | ✅ |
-| Edge 113+ | ✅ | ✅ |
-| Firefox | ❌ | ✅ |
-| Safari 18+ | ✅ | ✅ |
+| Chrome 113+ | Yes | Yes |
+| Edge 113+ | Yes | Yes |
+| Firefox | No | Yes |
+| Safari 18+ | Yes | Yes |
 
 ---
 
@@ -313,44 +239,44 @@ The canvas automatically resizes to fill the viewport. Camera aspect ratio adjus
 
 ---
 
-## ✨ Where Could This Adventure Continue?
+## 🚧 What's Next?
 
-Some ideas for the future:
+Some ideas for where this could go:
 
-- 🎮 **Touch Controls** — Swipe to interact on mobile
-- 🐙 **More Species** — Different jellyfish types with unique behaviors
-- 🎵 **Sound** — Ambient underwater audio
-- 🌊 **Currents** — Simulated water flow affecting movement
-- 🔊 **Web Audio API** — React to music
-- 🎨 **Custom Shaders** — Let users write their own jellyfish materials
-- 🌍 **VR/AR Support** — Dive into the scene with a headset
-- 📊 **Performance Monitor** — FPS and draw call stats
+- Touch controls for mobile interaction
+- More jellyfish species with unique behaviors
+- Ambient underwater audio
+- Simulated water currents affecting movement
+- Web Audio API integration to react to music
+- Custom shader system for user-defined materials
+- VR/AR support for diving into the scene
+- Performance monitoring with FPS and draw call stats
 
 ---
 
-## 🙏 Credits
+## ❤️ Credits
 
-### Libraries & Tools
+**Libraries & Tools**
 
 - [Three.js](https://threejs.org/) — The heart of the rendering
 - [Vite](https://vitejs.dev/) — Lightning-fast dev experience
 - [Tweakpane](https://tweakpane.github.io/docs/) — Elegant debug UI
 
-### Inspirations
+**Inspirations**
 
-- **[Chrysaora](https://akirodic.com/p/jellyfish/)** by [Aki Rodic](https://akirodic.com/) — The GOAT of WebGL jellyfish
-- **[Particulate Medusae](https://github.com/milcktoast/particulate-medusae)** by [Ash Weeks](https://github.com/milcktoast) — Beautiful particle-based approach
-- **[Luminescence](https://www.shadertoy.com/view/4sXBRn)** by BigWings — Stunning shader work
+- [Chrysaora](https://akirodic.com/p/jellyfish/) by Aki Rodic — The GOAT of WebGL jellyfish
+- [Particulate Medusae](https://github.com/milcktoast/particulate-medusae) by Ash Weeks — Beautiful particle-based approach
+- [Luminescence](https://www.shadertoy.com/view/4sXBRn) by BigWings — Stunning shader work
 
-### Original Project
+**Original Project**
 
-This is a reimagination of [Aurelia](https://holtsetio.com/old/aurelia/) — a Flash/ActionScript jellyfish game from 2011, rebuilt for the modern web.
+This is a reimagination of [Aurelia](https://holtsetio.com/old/aurelia/)—a Flash/ActionScript jellyfish game from 2011, rebuilt for the modern web.
 
 ---
 
 ## 📜 License
 
-MIT License — use it, modify it, share it. Just don't forget to credit the jellyfish. 🪼
+MIT License. Use it, modify it, share it.
 
 ---
 
