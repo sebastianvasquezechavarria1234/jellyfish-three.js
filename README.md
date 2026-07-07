@@ -1,6 +1,6 @@
 <div align="center">
 
-#🌊✨ Aurelia
+## 🌊✨ Aurelia     
 
 *Real-time procedural jellyfish swimming through an ocean of code, powered by WebGPU.*
 
