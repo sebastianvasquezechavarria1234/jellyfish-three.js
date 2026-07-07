@@ -5,7 +5,7 @@ import { bloom } from 'three/addons/tsl/display/BloomNode.js';
 
 import { Lights } from "./lights";
 import { conf } from "./conf";
-import { Info } from "./info";
+
 import { VerletPhysics } from "./physics/verletPhysics";
 import { VertexVisualizer } from "./physics/vertexVisualizer";
 import {SpringVisualizer} from "./physics/springVisualizer";
@@ -26,7 +26,7 @@ class App {
 
     lights = null;
 
-    stats = null;
+
 
     physics = null;
 
@@ -43,7 +43,6 @@ class App {
 
     async init(progressCallback) {
         conf.init();
-        this.info = new Info();
         this.renderer.init();
         this.camera = new THREE.PerspectiveCamera(65, window.innerWidth / window.innerHeight, 0.01, 30);
         this.camera.position.set(0, 0, 15);
@@ -190,7 +189,6 @@ class App {
     }
 
     async update(delta, elapsed) {
-        conf.begin();
         const { runSimulation, showVerletSprings } = conf;
         this.springVisualizer.object.visible = showVerletSprings;
 
@@ -216,7 +214,6 @@ class App {
             console.timeEnd("firstFrame");
         }
         this.frameNum++
-        conf.end();
     }
 }
 export default App;
