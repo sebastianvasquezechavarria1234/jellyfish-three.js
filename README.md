@@ -309,7 +309,7 @@ MIT License. Use it, modify it, share it.
 
 ---
 
-<div align="center">
+<div align="left">
 
 <a href="https://sebas-dev.vercel.app/" target="_blank" style="text-decoration: underline; font-style: italic;">✨ Created by Sebastian Vasquez</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
