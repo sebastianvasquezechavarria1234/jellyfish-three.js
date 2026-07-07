@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪼 ✨ Aurelia
+#🌊✨ Aurelia
 
 *Real-time procedural jellyfish swimming through an ocean of code, powered by WebGPU.*
 
@@ -27,7 +27,7 @@
 
 There's something about jellyfish that makes you stop and watch. They don't swim like other creatures. They pulse. They drift. They become the water itself.
 
-I've been chasing that feeling 1 ars. Fifteen years ago, I built my first jellyfish simulation in Flash. The web was a different place then—no touch screens, no GPU compute, just raw creativity squeezed into a dying plugin. The project was called Aurelia, after *Aurelia aurita*, the moon jellyfish. It was beautiful in its own way. But it was trapped in the past.
+I've been chasing that feeling for years. One year ago, I built my first jellyfish simulation in Flash. The web was a different place then—no touch screens, no GPU compute, just raw creativity squeezed into a dying plugin. The project was called Aurelia, after *Aurelia aurita*, the moon jellyfish. It was beautiful in its own way. But it was trapped in the past.
 
 So I rebuilt it. From scratch. For the modern web.
 
