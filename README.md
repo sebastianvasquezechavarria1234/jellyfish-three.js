@@ -310,5 +310,15 @@ MIT License. Use it, modify it, share it.
 ---
 
 <div align="center">
+
+<a href="https://sebas-dev.vercel.app/" target="_blank" style="text-decoration: underline; font-style: italic;">✨ Created by Sebastian Vasquez</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sebastianvasquezechavarria1234/parallax-depth" target="_blank" style="text-decoration: underline; font-style: italic;">💻 View source code</a>
+
+</div>
+
+---
+
+<div align="center">
 Made with ❤️ by <a href="https://sebas-dev.vercel.app/" target="_blank" rel="noopener noreferrer">Sebastián V</a>
 </div>
