@@ -11,13 +11,13 @@ Real-time procedural jellyfish swimming through an ocean of code, powered by Web
 
 
 
-<div align="center">
+<div>
 
 **[→ Watch Aurelia swim live ←](https://jellyfish-sage.vercel.app/)**
 
 </div>
 
----
+</br>
 
 There's something about jellyfish that makes you stop and watch. They don't swim like other creatures. They pulse. They drift. They become the water itself.
 
