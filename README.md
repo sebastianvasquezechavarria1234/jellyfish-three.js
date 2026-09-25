@@ -1,21 +1,15 @@
-<div align="center">
+[![Aurelia Preview](img/peview.jpg)](https://jellyfish-sage.vercel.app/)
+<div>
 
-# 🌊✨ Aurelia     
+#  Aurelia     
 
-*Real-time procedural jellyfish swimming through an ocean of code, powered by WebGPU.*
+Real-time procedural jellyfish swimming through an ocean of code, powered by WebGPU.*
 
-[![Three.js](https://img.shields.io/badge/Three.js-r175-black?style=flat-square&logo=three.js)](https://threejs.org/)
-[![WebGPU](https://img.shields.io/badge/WebGPU-Ready-2d9cff?style=flat-square&logo=webgpu&logoColor=white)](https://www.w3.org/TR/webgpu/)
-[![Vite](https://img.shields.io/badge/Vite-6.3-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![WebGL](https://img.shields.io/badge/WebGL-2.0-990000?style=flat-square&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
-[![GLSL](https://img.shields.io/badge/GLSL-4.0-563D7C?style=flat-square&logo=opengl&logoColor=white)](https://www.khronos.org/opengl/)
 
 </div>
 
 
 
-[![Aurelia Preview](img/peview.jpg)](https://jellyfish-sage.vercel.app/)
 
 <div align="center">
 
